@@ -1,2 +1,3 @@
-# CSC_221_jbarr029
-mmmmm computers
+# CSC_221 Fall 2023
+Josue Barrientos
+jbarr029@plattsburgh.edu
